@@ -1,0 +1,6 @@
+{
+  "name": "المسبحة الذكية وورد الأذكار",
+  "description": "المسبحة الذكية الإلكترونية وورد اليوم التفاعلي للأذكار مع دعم التثبيت والعمل بدون إنترنت - مؤسسة عطاء العقيلة التنموية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
